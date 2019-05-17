@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Ga eens wat doen",
+      "isCompleted": true
+    },
+    {
+      "id": "2",
+      "title": "Ga eens wat doen",
+      "isCompleted": true
+    },
+    {
+      "id": "3",
+      "title": "Ga eens wat doen",
+      "isCompleted": false
+    }
+  ]
+}
