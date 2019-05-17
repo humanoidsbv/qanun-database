@@ -33,66 +33,43 @@
       ]
     },
     {
-      "title": "De vaatwasser inruimen",
-      "priority": "urgent",
+      "title": "Bouw rechter paneel",
+      "priority": "In progress",
       "status": "Assigned",
-      "author": "Maarten",
+      "author": "Robbin",
       "dueDate": "2019-05-17T13:33:33+0000",
-      "budgetedHours": 15,
-      "description": "De boel is weer vies. Kan iemand, alsjeblieft, dit nou eens opruimen",
+      "budgetedHours": 3,
+      "description": "Dat rechter paneel, dat moet dus wat meer informatie gaan geven!",
       "isCompleted": false,
       "subTasks": [
         {
           "isCompleted": false,
-          "title": "Zooi er in"
+          "title": "Paneel maken"
         },
         {
           "isCompleted": false,
-          "title": "Zooi er uit"
+          "title": "Paneel rechts zetten"
+        },
+        {
+          "isCompleted": false,
+          "title": "Paneel waterpas ophangen"
         }
       ],
       "comments": [
         {
           "author": "Robbin",
           "date": "2019-05-17T18:36:22+0000",
-          "text": "Gast, doe zelf ook eens wat!"
+          "text": "Lukt het?"
+        },
+        {
+          "author": "Jelle",
+          "date": "2019-05-17T18:36:25+0000",
+          "text": "Nee."
         },
         {
           "author": "Robbin",
           "date": "2019-05-17T18:36:28+0000",
-          "text": "Ik ga dit in ieder geval lekker niet doen."
-        }
-      ]
-    },
-    {
-      "title": "De vaatwasser inruimen",
-      "priority": "urgent",
-      "status": "Assigned",
-      "author": "Maarten",
-      "dueDate": "2019-05-17T13:33:33+0000",
-      "budgetedHours": 15,
-      "description": "De boel is weer vies. Kan iemand, alsjeblieft, dit nou eens opruimen",
-      "isCompleted": false,
-      "subTasks": [
-        {
-          "isCompleted": false,
-          "title": "Zooi er in"
-        },
-        {
-          "isCompleted": false,
-          "title": "Zooi er uit"
-        }
-      ],
-      "comments": [
-        {
-          "author": "Robbin",
-          "date": "2019-05-17T18:36:22+0000",
-          "text": "Gast, doe zelf ook eens wat!"
-        },
-        {
-          "author": "Robbin",
-          "date": "2019-05-17T18:36:28+0000",
-          "text": "Ik ga dit in ieder geval lekker niet doen."
+          "text": "Dacht ik al. Ik kom er aan."
         }
       ]
     }
