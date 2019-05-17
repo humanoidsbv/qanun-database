@@ -1,19 +1,100 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "title": "Ga eens wat doen",
-      "isCompleted": true
+      "title": "De vaatwasser inruimen",
+      "priority": "urgent",
+      "status": "Assigned",
+      "author": "Maarten",
+      "dueDate": "2019-05-17T13:33:33+0000",
+      "budgetedHours": 15,
+      "description": "De boel is weer vies. Kan iemand, alsjeblieft, dit nou eens opruimen",
+      "isCompleted": false,
+      "subTasks": [
+        {
+          "isCompleted": false,
+          "title": "Zooi er in"
+        },
+        {
+          "isCompleted": false,
+          "title": "Zooi er uit"
+        }
+      ],
+      "comments": [
+        {
+          "author": "Robbin",
+          "date": "2019-05-17T18:36:22+0000",
+          "text": "Gast, doe zelf ook eens wat!"
+        },
+        {
+          "author": "Robbin",
+          "date": "2019-05-17T18:36:28+0000",
+          "text": "Ik ga dit in ieder geval lekker niet doen."
+        }
+      ]
     },
     {
-      "id": "2",
-      "title": "Ga eens wat doen",
-      "isCompleted": true
+      "title": "De vaatwasser inruimen",
+      "priority": "urgent",
+      "status": "Assigned",
+      "author": "Maarten",
+      "dueDate": "2019-05-17T13:33:33+0000",
+      "budgetedHours": 15,
+      "description": "De boel is weer vies. Kan iemand, alsjeblieft, dit nou eens opruimen",
+      "isCompleted": false,
+      "subTasks": [
+        {
+          "isCompleted": false,
+          "title": "Zooi er in"
+        },
+        {
+          "isCompleted": false,
+          "title": "Zooi er uit"
+        }
+      ],
+      "comments": [
+        {
+          "author": "Robbin",
+          "date": "2019-05-17T18:36:22+0000",
+          "text": "Gast, doe zelf ook eens wat!"
+        },
+        {
+          "author": "Robbin",
+          "date": "2019-05-17T18:36:28+0000",
+          "text": "Ik ga dit in ieder geval lekker niet doen."
+        }
+      ]
     },
     {
-      "id": "3",
-      "title": "Ga eens wat doen",
-      "isCompleted": false
+      "title": "De vaatwasser inruimen",
+      "priority": "urgent",
+      "status": "Assigned",
+      "author": "Maarten",
+      "dueDate": "2019-05-17T13:33:33+0000",
+      "budgetedHours": 15,
+      "description": "De boel is weer vies. Kan iemand, alsjeblieft, dit nou eens opruimen",
+      "isCompleted": false,
+      "subTasks": [
+        {
+          "isCompleted": false,
+          "title": "Zooi er in"
+        },
+        {
+          "isCompleted": false,
+          "title": "Zooi er uit"
+        }
+      ],
+      "comments": [
+        {
+          "author": "Robbin",
+          "date": "2019-05-17T18:36:22+0000",
+          "text": "Gast, doe zelf ook eens wat!"
+        },
+        {
+          "author": "Robbin",
+          "date": "2019-05-17T18:36:28+0000",
+          "text": "Ik ga dit in ieder geval lekker niet doen."
+        }
+      ]
     }
   ]
 }
