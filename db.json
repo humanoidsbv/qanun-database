@@ -1,6 +1,7 @@
 {
   "tasks": [
     {
+      "id": "1",
       "title": "De vaatwasser inruimen",
       "priority": "urgent",
       "status": "Assigned",
@@ -11,7 +12,7 @@
       "isCompleted": false,
       "subTasks": [
         {
-          "isCompleted": false,
+          "isCompleted": true,
           "title": "Zooi er in"
         },
         {
@@ -33,9 +34,10 @@
       ]
     },
     {
+      "id": "2",
       "title": "Bouw rechter paneel",
-      "priority": "In progress",
-      "status": "Assigned",
+      "priority": "urgent",
+      "status": "In progress",
       "author": "Robbin",
       "dueDate": "2019-05-17T13:33:33+0000",
       "budgetedHours": 3,
@@ -72,6 +74,34 @@
           "text": "Dacht ik al. Ik kom er aan."
         }
       ]
-    }
+    },
+    {
+      "id": "3",
+      "title": "Een broodmes kopen",
+      "priority": "urgent",
+      "status": "Review client",
+      "author": "Rosa",
+      "dueDate": "2019-07-27T18:33:33+0000",
+      "budgetedHours": 1,
+      "description": "Mijn stokbrood is krom, ik heb een broodmes nodig.",
+      "isCompleted": false,
+      "subTasks": [
+        {
+          "isCompleted": true,
+          "title": "www.broodmessen.nl bezoeken"
+        },
+        {
+          "isCompleted": false,
+          "title": "Er eentje bestellen."
+        }
+      ],
+      "comments": [
+        {
+          "author": "Doenja",
+          "date": "2019-05-17T18:36:22+0000",
+          "text": "Mjam mjam stokbrood!"
+        }
+      ]
+    },
   ]
 }
